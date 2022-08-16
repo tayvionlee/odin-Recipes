@@ -2,15 +2,18 @@
     text-align: center;
     font-family: monospace;
     list-style-position: inside;
+    font-size: 18px;
  }
 
  .mealinfo-ul.shrimpmeal-steps {
-    margin-left: 50vh;
-    margin-right: 50vh;
-    border-left: 40vh;
+    font-weight: 100;
  }
 
  .shrimpmeal-steps {
-    padding-left: 50vh;
-    padding-right: 50vh;
+    color: blue;
+ }
+
+ img {
+    height: 450px;
+    width: 450px;
  }
