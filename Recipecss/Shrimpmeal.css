@@ -1,6 +1,16 @@
-.image-name {
+* {
     text-align: center;
     font-family: monospace;
+    list-style-position: inside;
  }
 
- 
+ .mealinfo-ul.shrimpmeal-steps {
+    margin-left: 50vh;
+    margin-right: 50vh;
+    border-left: 40vh;
+ }
+
+ .shrimpmeal-steps {
+    padding-left: 50vh;
+    padding-right: 50vh;
+ }
